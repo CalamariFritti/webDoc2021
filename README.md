@@ -58,9 +58,45 @@ On-site care (in planning). -> we care for our customers plants, kind of like a 
 
 ## Personas
 
-The B2B customer:
+###The B2B customer:
 
-Job title/description:  aqauristic/vivaristic specialist 
+Job title/description:  aqauristic/vivaristic specialist, zoo director, park planner
 
+demographic profile:    30 to 60 years old
+                        university or college degree (or comparable, minimum)
+                        m/f/o
 
+needs and wants:        -> high reliability 
+                        -> high quality 
+                        -> long term business relations
+                        -> very specific
+                        -> competitve prices
+                    
+approaches and workflow:  usually working from desktop or laptop computer
+                          prefers telephone over email (more direct and faster)
+                          standard small business network and pc equipment
+                          
+customer profile:       hard to acquire
+                        much more revenue for our company due to higher contract volumes, repetitiveness
+                        
+                        
+###The B2C customer:
 
+Job title/description: hobbyists and private enthusiats
+
+demographic profile:   very wide range (15 to 85)
+                       unspecific 'formal education' but very high knowledge in special niches possible
+                       m/f/o
+                      
+needs and wants:        -> big variety (of products)
+                        -> good prices (can become a 'B' criteria with excellent quality)
+                        -> rather short term
+                        
+approaches and workflow: all types of devices are used by thhis customer,
+                         with a tendency to mobile device (rather small screen)
+                         prefers to order directly or write an email
+                         mobile or other 'slow' connections possible
+                         
+customer profile:       faster sales with lower volumes
+                        very important for reviews and mouth-to -mouth marketing
+                        usually not very frequent customers
