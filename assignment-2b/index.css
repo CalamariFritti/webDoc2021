@@ -275,11 +275,13 @@ nav > a {
  position: relative;
  padding: 0.325rem 0.313rem;
  /*height:35rem;*/
- width: 20%
+  width: 20rem;
+ height: 20rem;
  border-radius: 0.038rem 1.125rem 0.875rem 0.113rem;
 }
  .contact{
-    font-size: 50%;
+    padding-top: 10px;
+     font-size: 50%;
     text-align: center;
     color: #4d0000;
 }
