@@ -269,9 +269,14 @@ nav > a {
      display:grid;
      grid-template-columns: auto auto;
      grid-template-rows: auto auto;
-     
+     }
+
+.img {
+ position: relative;
+ padding: 0.325rem 0.313rem;
+ /*height:35rem;*/
+ width: 20%
+ border-radius: 0.038rem 1.125rem 0.875rem 0.113rem;
+}
     
- }
-
-
 }
