@@ -100,3 +100,45 @@ approaches and workflow: all types of devices are used by thhis customer,
 customer profile:       faster sales with lower volumes
                         very important for reviews and mouth-to -mouth marketing
                         usually not very frequent customers
+                        
+*EDIT 17.01.2022*
+# Division of work #
+The except the index.html and index.css, the division of work was done in the following manner :
+
+Ms.Lathangi
+- Plants
+- Reviews
+- Contact
+- Projects
+- About
+***(End)***
+
+Philip Paul Arunodhayam Thangam Jesudian
+- Shop
+  - Main Shop Page
+  - B2B
+  - B2C
+- Showroom
+  - Main Showroom Page
+  - Fish Tanks
+  - Fish Ponds
+***(End)***
+
+### Common areas of work ###
+index.html and index.css has both the contributions of Ms.Lathangi and Philip Paul Arunodhayam Thangam Jesudian. Certain parts of the css code in index.css was exclusively coded for personal webpage file so they will have all the mixture.
+
+## Area of work of Ms.Lathangi Vemulapalli ##
+ It lies mostly on plants, review, contact, projects and about pages respectively. It contains the following html files :
+ ```
+ plants.html  reviews.html  contact.html  projects.html  about.html
+ 
+ ```
+ It may also contain additional css files as per need.
+ 
+ ## Area of work of Philip Paul Arunodhayam Thangam Jesudian ##
+  The areas designated to Philip were based on Shops(main page, b2b and b2c) and Showroom(main page, fish tanks and ponds). Those comprised of the following html files :
+  ```
+  shopMain.html  b2bShop.html  b2cShop.html  showroomMain.html  showroomFishTanks.html  showroomPonds.html
+  ```
+  It doesn't contain any additional css file since all the necessary codes were writen on the same index.css file respectively.
+  HTML and CSS files were successfully validated against validators.
