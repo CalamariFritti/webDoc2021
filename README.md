@@ -111,6 +111,8 @@ Ms.Lathangi
 - Contact
 - Projects
 - About
+- Index
+
 ***(End)***
 
 Philip Paul Arunodhayam Thangam Jesudian
@@ -122,6 +124,7 @@ Philip Paul Arunodhayam Thangam Jesudian
   - Main Showroom Page
   - Fish Tanks
   - Fish Ponds
+- Index: Contact Form and social media icons
 ***(End)***
 
 ### Common areas of work ###
@@ -131,9 +134,9 @@ index.html and index.css has both the contributions of Ms.Lathangi and Philip Pa
  It lies mostly on plants, review, contact, projects and about pages respectively. It contains the following html files :
  ```
  plants.html  reviews.html  contact.html  projects.html  about.html
+ plants.css   reviews.css   contact.css   projects.css   about.css
  
  ```
- It may also contain additional css files as per need.
  
  ## Area of work of Philip Paul Arunodhayam Thangam Jesudian ##
   The areas designated to Philip were based on Shops(main page, b2b and b2c) and Showroom(main page, fish tanks and ponds). Those comprised of the following html files :
