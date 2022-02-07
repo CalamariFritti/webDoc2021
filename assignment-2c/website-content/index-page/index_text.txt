@@ -1,0 +1,17 @@
+
+The front page should only show the video attached as well as a 'tiles-style' grid of links to the subpages. 
+(The video was suppossed to be a representative video of nice waterplants. I just now realised that quality and photography of the video are ... mediocre. Apparently I am missing the equipment (and probably  also the skill(s)) to get a better result, so we have to use this one.)
+
+Just a short welcoming heading for text:
+
+*text begin*
+
+<heading> Herzlich Willkommen in der Welt der Unterwasserpflazen </heading> 
+
+Die Submers Emers GmbH begrüßt Sie im Cottbuser Atalantis.
+
+<video>
+
+<lots of links to subpages>
+
+*text end*
