@@ -65,7 +65,10 @@ nav > a {
 }
 
 .nav-links {
+    position: relative;
     color: #5d0404;
+    font-size: 2rem;
+
 }
 
 @media only screen and (min-width: 37.5rem) {
@@ -297,6 +300,11 @@ input[type="submit"]:hover {
     font-size: 1.5rem;
     font-style: italic;
 }
+.nav-links {
+    position: relative;
+    color: #5d0404;
+    font-size: 2rem;
+}
 
 .down.new {
     position: relative;
@@ -346,6 +354,12 @@ input[type="submit"]:hover {
         display: flex;
         justify-content: space-between;
         align-self: center;
+    }
+
+    .nav-links {
+    position: relative;
+    color: #5d0404;
+    font-size: 1.44rem;
     }
 
     .vid {
