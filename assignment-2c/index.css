@@ -69,6 +69,7 @@ nav > a {
     position: relative;
     color: #5d0404;
     font-size: 2rem;
+    size: 48px 48px;
 
 }
 
@@ -305,6 +306,7 @@ input[type="submit"]:hover {
     position: relative;
     color: #5d0404;
     font-size: 2rem;
+
 }
 
 .down.new {
@@ -361,6 +363,7 @@ input[type="submit"]:hover {
     position: relative;
     color: #5d0404;
     font-size: 1.44rem;
+    size: 48px 48px;
     }
 
     .vid {
