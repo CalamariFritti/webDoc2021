@@ -34,7 +34,8 @@ body {
     bottom: 0.313rem;
     left: 90%;
     right: 100%;
-    max-width: 100%;
+    width: 10%;
+    height: 10%;
 }
 
 .icon {
